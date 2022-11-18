@@ -1,7 +1,7 @@
 import vk_api
 from vk_api.longpoll import VkLongPoll, VkEventType
 
-vk_session = vk_api.VkApi(token = 'vk1.a.2e33B-o57nKJUf7a6VN9PFO10EPHipNs2h0S-oeyWHs6QME3cnC3SkucUpGb8C4splxaSUGHkWYXcvDGeQms-YcM2J2uOTN3_5PqEo9pIdc30br1YJUr6bZ0DfwmJw5bkV_ln2iLueWeFqlKrlsZC4cdcP03kiXjRPoZPoAhxiggmoPjQF8uNHa8YgGks3m6lYbHRVECMj-TwSZ-fYzLWA')
+vk_session = vk_api.VkApi(token = 'dobavit')
 longpoll = VkLongPoll(vk_session)
 
 
